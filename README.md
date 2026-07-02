@@ -3,7 +3,8 @@
 
 A simple AI-powered chatbot built using **FastAPI**, **Google Gemini API**, and **HTML, CSS, and JavaScript**. The application provides a clean chat interface where users can enter prompts and receive AI-generated responses.
 
----
+---<img width="1017" height="882" alt="image" src="https://github.com/user-attachments/assets/05495a56-16bf-491b-8382-d0883008a093" />
+
 
 ## 🚀 Features
 
